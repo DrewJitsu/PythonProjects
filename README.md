@@ -12,6 +12,9 @@ The user will be prompted to guess the number and the program will read that use
 As long as the user does not guess the number, they will be allowed to guess again until they do
 For each guess, the user will be told if their guess was too high or too low. Once the user guesses correctly, they should be congratulated and a message should be displayed to let them know how many attempts they needed to guess correctly.
 
+**ComplexFileHandling**
+This program reads a CSV file and uses it to create an Excel file that shows the same information but also displays a histogram of the information. 
+
 **Graphing.py**
 This program takes data from a published site and builds a graph based on it.  
 
@@ -23,3 +26,5 @@ This program logs keystrokes and appends them to a CSV file.
 
 **SimpleNumberGuess.py**
 This is another Number Guessing game created for the purpose of practicing iteration and creating functions.
+
+
