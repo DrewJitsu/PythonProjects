@@ -1,7 +1,7 @@
-#Andrew Harris
-#CIS123
-#Performance Assessment 1.13
-#9 OCT 2021
+'''
+Andrew Harris
+Number Guess
+'''
 
 
 rightNumber = 77 #Assigning correct number value
