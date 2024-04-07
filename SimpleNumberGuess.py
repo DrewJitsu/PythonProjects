@@ -1,8 +1,6 @@
 '''
 Andrew Harris
-CIS123
-Performance Assessment 4.5
-Program 3
+Simple Number Guess
 '''
 
 from random import randint
