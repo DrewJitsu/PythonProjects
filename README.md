@@ -4,13 +4,13 @@ A collection of school and personal projects written in Python
 Brief Description of Each:
 
 **NumberGuess.py**
-The program will try to simulate a number guessing game between the computer and the user:
+The program simulates a number guessing game between computer and user:
 
-The computer is the one "thinking" about the number. This number will be any integer between 1 and 100. (number assigned)
-The program will ask the user to enter their name and greet them.
-The user will be prompted to guess the number and the program will read that user input.
+The computer is the one "thinking" about the number. The number will be any integer between 1 and 100. (number assigned)
+The program asks the user to enter their name and greets them.
+The user is then prompted to guess the number and the program will read that user input.
 As long as the user does not guess the number, they will be allowed to guess again until they do
-For each guess, the user will be told if their guess was too high or too low. Once the user guesses correctly, they should be congratulated and a message should be displayed to let them know how many attempts they needed to guess correctly.
+For each guess, the user will be told if their guess was too high or too low. Once the user guesses correctly, they are congratulated and a message is displayed to let them know how many attempts it took them to guess correctly.
 
 **ComplexFileHandling**
 This program reads a CSV file and uses it to create an Excel file that shows the same information but also displays a histogram of the information. 
