@@ -1,7 +1,6 @@
 '''
 Andrew Harris
-CIS123
-3.6 Performance Assessment
+Complex File Handling
 '''
 
 import csv
