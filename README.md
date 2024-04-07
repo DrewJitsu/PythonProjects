@@ -19,7 +19,7 @@ This program reads a CSV file and uses it to create an Excel file that shows the
 This program takes data from a published site and builds a graph based on it.  
 
 **Process_Plot_CSV.py**
-This program processes an existing data file. It addsa a line to the CSV which contains first name, last name, age, Information Science, 100, and today’s date. It then creates a plot from the file (after adding the name). Which requires converting the .csv file to an excel file.
+This program processes an existing data file. It adds a line to the CSV which contains first name, last name, age, Information Science, 100, and today’s date. It then creates a plot from the file (after adding the name). Which requires converting the .csv file to an excel file.
 
 **KeyLog.py**
 This program logs keystrokes and appends them to a CSV file. 
