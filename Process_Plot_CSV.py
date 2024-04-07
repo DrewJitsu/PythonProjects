@@ -1,7 +1,6 @@
 '''
 Andrew Harris
-CIS123
-5.5 Performance Assessment 
+Process and Plot CSV 
 '''
 
 import csv #importing csv library 
