@@ -1,2 +1,2 @@
 # PythonProjects
-A collection of my projects written in Python
+A collection of school and personal projects written in Python
