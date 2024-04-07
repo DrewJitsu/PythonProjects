@@ -1,7 +1,6 @@
 '''
 Andrew Harris
-CIS123
-5.4 Guided Practice
+Graphing
 '''
 
 from matplotlib import pyplot as plt
